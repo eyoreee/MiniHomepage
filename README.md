@@ -19,3 +19,6 @@ footer.md
 
 ### 검색 추가
 search.md
+
+### 사이드바 추가
+sidebar.md
