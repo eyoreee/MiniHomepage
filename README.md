@@ -17,3 +17,5 @@ navigation.md 추가
 ## 푸터
 footer.md
 
+### 검색 추가
+search.md
