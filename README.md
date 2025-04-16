@@ -2,6 +2,9 @@
 
 기획 진짜 끗
 
+## 구매페이지 추가
+- buy.md
+
 ## 서비스
 - about.md
 
@@ -13,3 +16,4 @@ navigation.md 추가
 
 ## 푸터
 footer.md
+
